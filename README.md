@@ -8,8 +8,8 @@ This project presents a comprehensive **Sales Analysis Dashboard** created using
 
 - `Project.pbix` – Power BI Desktop file containing the full dashboard and data model.
 - `Store Data.xlsx` – Excel dataset used as input.
-- `SalesDashboard.pdf` *(optional)* – Exported PDF of the report for quick viewing.
-- `dashboard_preview.png` *(optional)* – Screenshot of the dashboard visuals.
+- `SalesDashboard.pdf` – Exported PDF of the report for quick viewing.
+- `dashboard_preview.png` – Screenshot of the dashboard visuals.
 
 ---
 
@@ -49,7 +49,6 @@ It enables time-series and categorical breakdown for detailed analysis.
 
 ## 📷 Dashboard Preview
 
-*You can upload a screenshot as `dashboard_preview.png` and include it here like below:*
 
 ```markdown
 ![Dashboard Preview](dashboard_preview.png)
